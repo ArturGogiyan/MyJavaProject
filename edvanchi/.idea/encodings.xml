@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/edvanchi/Entity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/edvanchi/Flyable.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/edvanchi/FlyingInsect.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/edvanchi/Insect.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/edvanchi/MTsTail.java" charset="UTF-16BE" />
+    <file url="file://$PROJECT_DIR$/src/edvanchi/Main.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/edvanchi/Movable.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/edvanchi/Mumitroll.java" charset="UTF-16" />
+    <file url="file://$PROJECT_DIR$/src/edvanchi/Place.java" charset="UTF-16" />
+    <file url="file://$PROJECT_DIR$/src/edvanchi/Tail.java" charset="UTF-8" />
+  </component>
+</project>
